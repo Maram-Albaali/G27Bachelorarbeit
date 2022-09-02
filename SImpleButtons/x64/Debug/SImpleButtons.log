@@ -1,0 +1,4 @@
+﻿  Using triplet "x64-windows" from "C:\DEV\vcpkg\installed\x64-windows\"
+  LogitechWrapper.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  SImpleButtons.vcxproj -> C:\Users\SNNU-admin\Desktop\LogitechG27\G27-Sandbox\x64\Debug\SImpleButtons.exe
